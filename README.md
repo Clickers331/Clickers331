@@ -6,5 +6,3 @@ Currently learning Tailwind CSS.
 
 I am currently going to high school.
 
-Links :
- Upwork: https://www.upwork.com/freelancers/~01677a44d883a2f23a;
