@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clickers331&" alt="clickers331" /></p>
 
-<a href="https://app.daily.dev/clickers"><img src="https://api.daily.dev/devcards/b5cd4bc504e34f5db58498296ffbb6a3.png?r=3s1" width="400" alt="clickers's Dev Card"/></a>
+<a href="https://app.daily.dev/clickers"><img align="center" src="https://api.daily.dev/devcards/b5cd4bc504e34f5db58498296ffbb6a3.png?r=3s1" width="400" alt="clickers's Dev Card"/></a>
